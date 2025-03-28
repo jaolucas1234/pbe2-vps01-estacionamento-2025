@@ -27,5 +27,14 @@ Desenvolver as funcionalidades conforme requisitos
 - [CT005] Altere pelo menos duas estadias preenchendo a **saida** e verificando se calcula o **valorTotal**.
 
 ## Tecnologias
+    Node.js
+    Prisma
+    XAMPP
+    MySQL
+    VsCode
+    Insomnia
 
 ## Passo a Passo de como executar a API
+baixar cors, express, prisma, dotenv
+
+
